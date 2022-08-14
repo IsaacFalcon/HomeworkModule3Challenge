@@ -19,7 +19,7 @@
 
 ## Usage
 
-Link: 
+Link: https://isaacfalcon.github.io/HomeworkModule3Challenge/
 
 ![alt Website Screenshot](assets/images/preview.png)
 
